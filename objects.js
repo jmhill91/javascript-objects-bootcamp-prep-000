@@ -1,1 +1,2 @@
-var playist={  names: "song titles"}
+var playist={  artistnames: "song titles"}
+function updatePlaylist()
